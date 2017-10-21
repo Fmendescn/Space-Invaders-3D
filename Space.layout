@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="glm_example.cpp" Top="Yes" Tabpos="1" TopLine="1">
+			<Cursor Line="1" Column="1"/>
+		</File>
+		<File Name="tiny_obj_loader.h" Top="No" Tabpos="2" TopLine="1306">
+			<Cursor Line="1734" Column="16"/>
+		</File>
+		<File Name="Model.h" Top="No" Tabpos="3" TopLine="48">
+			<Cursor Line="76" Column="19"/>
+		</File>
+		<File Name="Inimigo.h" Top="No" Tabpos="4" TopLine="12">
+			<Cursor Line="25" Column="16"/>
+		</File>
+		<File Name="Mesh.h" Top="No" Tabpos="5" TopLine="1">
+			<Cursor Line="1" Column="13"/>
+		</File>
+		<File Name="Nave.h" Top="No" Tabpos="6" TopLine="30">
+			<Cursor Line="33" Column="1"/>
+		</File>
+		<File Name="shader.h" Top="No" Tabpos="7" TopLine="68">
+			<Cursor Line="18" Column="22"/>
+		</File>
+		<File Name="Camera.h" Top="No" Tabpos="8" TopLine="1">
+			<Cursor Line="18" Column="1"/>
+		</File>
+	</Files>
+</Layout>
